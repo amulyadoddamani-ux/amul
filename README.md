@@ -1,16 +1,42 @@
-# amul# Big Heading
+# amul# # Hi 👋 I'm Amulya
 
-## Smaller Heading
+## 👨‍💻 About Me
 
-### Even Smaller Heading
+* 🎓 B.Tech CSE Student
+* 🌱 Currently learning **C, Python & Web Development**
+* 💡 Interested in **AI and Software Development**
+* 🚀 Building my skills through projects
+* 📚 Always learning something new
 
-**Bold text**
+## 🛠️ Languages & Tools
 
-*Italic text*
+* C
+* Python
+* HTML
+* CSS
+* Git
+* GitHub
+* VS Code
 
-- Bullet point
-- Another bullet point
+## 📂 My Projects
 
-[Link Text](https://example.com)
+* 📚 Library Management System
+* 🐍 Python Projects
+* 💻 C Programming Projects
+* 🤖 AI-related Projects
 
-`code`
+## 🎯 My Goals
+
+* Become a better programmer
+* Build real-world projects
+* Learn new technologies
+* Contribute to open source
+
+## 📫 Connect With Me
+
+* 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
