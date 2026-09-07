@@ -32,11 +32,6 @@
 * Learn new technologies
 * Contribute to open source
 
-## 📫 Connect With Me
-
-* 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/)
-
 ---
 
 ⭐ Thanks for visiting my profile!
